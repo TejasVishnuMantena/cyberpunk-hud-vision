@@ -124,4 +124,6 @@ This project is open-source and available under the MIT License.
 
 # 👨‍💻 Author
 
-Built for experimental futuristic UI rendering, immersive cyberpunk experiences, and real-time AI-style visualization systems.
+### Developed with ❤️ by Vishnu
+*"Where code, motion, and particles collide to create digital art."*
+
